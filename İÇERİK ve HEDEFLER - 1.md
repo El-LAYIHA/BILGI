@@ -4,7 +4,12 @@ Bu proje hakkında öncelikli olarak sözleşme metnini açık etmek isterim. Bu
 
 İşte ahbabın kendi içinde sözleşmesi:
 
-roje: Project System2.0
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+Proje: Project System2.0
 Alt-Proje: Project OS2.0
 Proje Özgül İsim: Nizâm-ı Sânî
 Proje Özgül Tam İsmi: Râyihâ Nizâm-ı Sânî fî Şibh-i Heyûlâ
@@ -44,9 +49,19 @@ Biz vaadimizde en azından bir odada bir masa/rahle etrafında kitap okuyup yaza
 
 Ettevfik billah.
 
----------------------------------------------------------------------------------------------
+
 
 İmza: Kul Fikretoğlu Muhammed Muhammed Mahmud Şamil ALBAYRAK er-Rifâî et-Türkî el-Üsküdârî
 
 İmza: Dost Burak Candan El-Uveysî
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Tüm haklar saklıdır.
+
+
+Kul MMM Şamil ALBAYRAK RTU
+Ramazan 1445
+Istanbul
 
